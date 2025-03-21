@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/comprobantemila/static/css/main.3b2f01cf.css",
+    "main.js": "/comprobantemila/static/js/main.8365fd1b.js",
+    "static/js/239.1436dc33.chunk.js": "/comprobantemila/static/js/239.1436dc33.chunk.js",
+    "static/js/977.6a8d7d55.chunk.js": "/comprobantemila/static/js/977.6a8d7d55.chunk.js",
+    "static/js/732.86af157c.chunk.js": "/comprobantemila/static/js/732.86af157c.chunk.js",
+    "static/js/453.13393646.chunk.js": "/comprobantemila/static/js/453.13393646.chunk.js",
+    "static/media/milalogo.jpg": "/comprobantemila/static/media/milalogo.1d58a98f85bd3b1c0acc.jpg",
+    "index.html": "/comprobantemila/index.html",
+    "main.3b2f01cf.css.map": "/comprobantemila/static/css/main.3b2f01cf.css.map",
+    "main.8365fd1b.js.map": "/comprobantemila/static/js/main.8365fd1b.js.map",
+    "239.1436dc33.chunk.js.map": "/comprobantemila/static/js/239.1436dc33.chunk.js.map",
+    "732.86af157c.chunk.js.map": "/comprobantemila/static/js/732.86af157c.chunk.js.map",
+    "453.13393646.chunk.js.map": "/comprobantemila/static/js/453.13393646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2f01cf.css",
+    "static/js/main.8365fd1b.js"
+  ]
+}
